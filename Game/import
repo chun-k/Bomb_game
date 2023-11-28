@@ -1,0 +1,6 @@
+import random as rd
+import time as tm
+import os
+
+#Cl = 'cls' # Window
+Cl = 'clear' # Mac
