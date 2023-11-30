@@ -2,6 +2,10 @@ import random as rd
 import time as tm
 import os
 
+from game_class import *
+from exception_func import *
+
+
 #Cl = 'cls' # Window
 Cl = 'clear' # Mac
 
