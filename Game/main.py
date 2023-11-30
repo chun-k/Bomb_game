@@ -1,3 +1,10 @@
+import random as rd
+import time as tm
+import os
+
+#Cl = 'cls' # Window
+Cl = 'clear' # Mac
+
 while True :
     # ---------- 시작 세팅 ----------
     os.system(Cl)
