@@ -1,4 +1,9 @@
 # ---------- 클래스 정의 ----------
+
+import random as rd
+import time as tm
+import os 
+
 class Bomb_game:
     '''2-4인용 폭탄게임을 하기 위한 여러가지 기능(메소드)을 제공하는 클래스이다.'''
     Exis_card = ['폭탄', '제거', '셔플', '투시', '강탈',
